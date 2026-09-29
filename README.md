@@ -6,7 +6,7 @@ Industrial & Production Engineering student with a passion for optimizing proces
 
 ### 🚀 About Me
 
-- 🎓 **Studying:** Industrial & Production Engineering (IPE)[cite: 1]
+- 🎓 **Studying:** Industrial & Production Engineering (IPE)
 - ⚙️ **Passionate about:** How things are built, lean manufacturing, process optimization, and systems engineering
 - 💡 **Core Mindset:** Fascinated by how things are made and obsessed with making them run better.
 - 📍 **Timezone:** UTC +06:00
