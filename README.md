@@ -9,14 +9,14 @@ Industrial & Production Engineering student with a passion for optimizing proces
 - 🎓 **Studying:** Industrial & Production Engineering (IPE)[cite: 1]
 - ⚙️ **Passionate about:** How things are built, lean manufacturing, process optimization, and systems engineering
 - 💡 **Core Mindset:** Fascinated by how things are made and obsessed with making them run better.
-- 📍 **Timezone:** UTC +06:00[cite: 1]
+- 📍 **Timezone:** UTC +06:00
 - 📸 **Instagram:** [@_haeiyo_](https://instagram.com/_haeiyo_)
 
 ---
 
 ### 🛠️ Languages & Technologies
 
-- **Languages:** Python, HTML[cite: 1]
+- **Languages:** Python, HTML
 - **CAD & Design:** SolidWorks
 - **Engineering & Analytics:** Process Modeling, Quality Assurance, Data Analytics
 - **Tools:** GitHub
